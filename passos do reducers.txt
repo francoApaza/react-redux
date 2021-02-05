@@ -1,0 +1,20 @@
+1- instalar o Redux
+npm i redux
+
+2- instalar React-redsux
+npm i react-redux
+
+
+3- Store
+
+4- Reducer
+
+5- Provider (Fornecer Store)
+
+6- useSelector ( no app.js)(pegar o state do store)
+
+
+7- useDispatch
+
+
+8- 
